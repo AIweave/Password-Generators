@@ -1,7 +1,7 @@
 # Password-Generators
 Here are two simple code programs for creating passwords to increase your security.
-
-**STEPS:** 
+**
+STEPS:**
 1. Enter the amount of characters desired for each parameter (letter, number, and symbol). 
 2. Copy password.
 3. Store password.

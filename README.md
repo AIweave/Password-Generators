@@ -9,4 +9,5 @@ Here are two simple code programs for creating passwords to increase your securi
 Simple Password:
 
 Complex Password:
+
 ![Screenshot (3)](https://github.com/user-attachments/assets/503b0d4c-ace8-40f4-a1fe-aaa75f73d307)
